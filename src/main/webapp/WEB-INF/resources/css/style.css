@@ -1,0 +1,11 @@
+html{
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+
+.image{
+	margin-top: -17px;
+	padding: 0px 0px;
+	width: 100%;
+	position: fixed;
+}
